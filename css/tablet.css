@@ -1,0 +1,7 @@
+.procuct-cards--conatiners{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    max-width: 930px;
+    margin: 0 auto;
+}
